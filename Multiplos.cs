@@ -1,6 +1,6 @@
 ﻿using System;
-namespace Décimo_Primeiro {
-    class Program11 {
+namespace Multiplos {
+    class Mtp {
         static void Main11(string[] args) {
 
             Console.WriteLine("Digite dois números inteiros: ");
