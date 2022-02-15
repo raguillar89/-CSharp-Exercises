@@ -1,8 +1,8 @@
 ﻿using System;
 using System.Globalization;
 
-namespace Décimo_Sexto {
-    class Program16 {
+namespace Calculo {
+    class IR {
         static void Main(string[] args) {
 
             Console.WriteLine("Qual o valor do seu Salário: R$");
