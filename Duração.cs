@@ -1,6 +1,6 @@
 ﻿using System;
-namespace Décimo_Segundo {
-    class Program12 {
+namespace Duracao {
+    class Dur {
         static void Main12(string[] args) {
 
             Console.WriteLine("Digite o valor de X (Número Inteiro): ");
