@@ -1,6 +1,6 @@
 ﻿using System;
-namespace Décimo {
-    class Program10 {
+namespace ParEImpar {
+    class PI {
         static void Main10(string[] args) {
 
             Console.WriteLine("Digite um número inteiro: ");
