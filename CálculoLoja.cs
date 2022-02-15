@@ -1,8 +1,8 @@
-﻿using System;
+using System;
 using System.Globalization;
 
-namespace Décimo_Terceiro {
-    class Program13 {
+namespace Calculo {
+    class Loja {
         static void Main13(string[] args) {
 
             int qtd1 = 0;
