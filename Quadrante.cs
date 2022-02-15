@@ -1,8 +1,8 @@
-﻿using System;
+using System;
 using System.Globalization;
 
-namespace Décimo_Quinto {
-    class Program15 {
+namespace Quadrante {
+    class Q {
         static void Main15(string[] args) {
             Console.WriteLine("Digite um Valor Decimal para X: ");
             double x = double.Parse(Console.ReadLine());
