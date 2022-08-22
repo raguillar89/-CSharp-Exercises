@@ -1,0 +1,15 @@
+C:\Users\Darth\Documents\Prog\Git\EmployeePayment\EmployeePayment\bin\Debug\net6.0\EmployeePayment.exe
+C:\Users\Darth\Documents\Prog\Git\EmployeePayment\EmployeePayment\bin\Debug\net6.0\EmployeePayment.deps.json
+C:\Users\Darth\Documents\Prog\Git\EmployeePayment\EmployeePayment\bin\Debug\net6.0\EmployeePayment.runtimeconfig.json
+C:\Users\Darth\Documents\Prog\Git\EmployeePayment\EmployeePayment\bin\Debug\net6.0\EmployeePayment.dll
+C:\Users\Darth\Documents\Prog\Git\EmployeePayment\EmployeePayment\bin\Debug\net6.0\EmployeePayment.pdb
+C:\Users\Darth\Documents\Prog\Git\EmployeePayment\EmployeePayment\obj\Debug\net6.0\EmployeePayment.csproj.AssemblyReference.cache
+C:\Users\Darth\Documents\Prog\Git\EmployeePayment\EmployeePayment\obj\Debug\net6.0\EmployeePayment.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Darth\Documents\Prog\Git\EmployeePayment\EmployeePayment\obj\Debug\net6.0\EmployeePayment.AssemblyInfoInputs.cache
+C:\Users\Darth\Documents\Prog\Git\EmployeePayment\EmployeePayment\obj\Debug\net6.0\EmployeePayment.AssemblyInfo.cs
+C:\Users\Darth\Documents\Prog\Git\EmployeePayment\EmployeePayment\obj\Debug\net6.0\EmployeePayment.csproj.CoreCompileInputs.cache
+C:\Users\Darth\Documents\Prog\Git\EmployeePayment\EmployeePayment\obj\Debug\net6.0\EmployeePayment.dll
+C:\Users\Darth\Documents\Prog\Git\EmployeePayment\EmployeePayment\obj\Debug\net6.0\refint\EmployeePayment.dll
+C:\Users\Darth\Documents\Prog\Git\EmployeePayment\EmployeePayment\obj\Debug\net6.0\EmployeePayment.pdb
+C:\Users\Darth\Documents\Prog\Git\EmployeePayment\EmployeePayment\obj\Debug\net6.0\EmployeePayment.genruntimeconfig.cache
+C:\Users\Darth\Documents\Prog\Git\EmployeePayment\EmployeePayment\obj\Debug\net6.0\ref\EmployeePayment.dll

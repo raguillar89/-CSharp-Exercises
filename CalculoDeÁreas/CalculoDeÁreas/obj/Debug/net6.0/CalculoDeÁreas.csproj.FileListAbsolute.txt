@@ -1,0 +1,15 @@
+C:\Users\Darth\Documents\Prog\Git\CalculoDeÁreas\CalculoDeÁreas\obj\Debug\net6.0\CalculoDeÁreas.csproj.AssemblyReference.cache
+C:\Users\Darth\Documents\Prog\Git\CalculoDeÁreas\CalculoDeÁreas\obj\Debug\net6.0\CalculoDeÁreas.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Darth\Documents\Prog\Git\CalculoDeÁreas\CalculoDeÁreas\obj\Debug\net6.0\CalculoDeÁreas.AssemblyInfoInputs.cache
+C:\Users\Darth\Documents\Prog\Git\CalculoDeÁreas\CalculoDeÁreas\obj\Debug\net6.0\CalculoDeÁreas.AssemblyInfo.cs
+C:\Users\Darth\Documents\Prog\Git\CalculoDeÁreas\CalculoDeÁreas\obj\Debug\net6.0\CalculoDeÁreas.csproj.CoreCompileInputs.cache
+C:\Users\Darth\Documents\Prog\Git\CalculoDeÁreas\CalculoDeÁreas\bin\Debug\net6.0\CalculoDeÁreas.exe
+C:\Users\Darth\Documents\Prog\Git\CalculoDeÁreas\CalculoDeÁreas\bin\Debug\net6.0\CalculoDeÁreas.deps.json
+C:\Users\Darth\Documents\Prog\Git\CalculoDeÁreas\CalculoDeÁreas\bin\Debug\net6.0\CalculoDeÁreas.runtimeconfig.json
+C:\Users\Darth\Documents\Prog\Git\CalculoDeÁreas\CalculoDeÁreas\bin\Debug\net6.0\CalculoDeÁreas.dll
+C:\Users\Darth\Documents\Prog\Git\CalculoDeÁreas\CalculoDeÁreas\bin\Debug\net6.0\CalculoDeÁreas.pdb
+C:\Users\Darth\Documents\Prog\Git\CalculoDeÁreas\CalculoDeÁreas\obj\Debug\net6.0\CalculoDeÁreas.dll
+C:\Users\Darth\Documents\Prog\Git\CalculoDeÁreas\CalculoDeÁreas\obj\Debug\net6.0\refint\CalculoDeÁreas.dll
+C:\Users\Darth\Documents\Prog\Git\CalculoDeÁreas\CalculoDeÁreas\obj\Debug\net6.0\CalculoDeÁreas.pdb
+C:\Users\Darth\Documents\Prog\Git\CalculoDeÁreas\CalculoDeÁreas\obj\Debug\net6.0\CalculoDeÁreas.genruntimeconfig.cache
+C:\Users\Darth\Documents\Prog\Git\CalculoDeÁreas\CalculoDeÁreas\obj\Debug\net6.0\ref\CalculoDeÁreas.dll
